@@ -12,4 +12,4 @@ Sunumun ikinci kısmında Blockchain teknolojisini daha detaylı anlatıp, sekt�
 ## Katılım
 Eğitime FinTech veya InsuranceTech diye isimlendirilen finans, teknoloji veya bu sektörlerle alakalı sektörlerde çalışan profesyoneller davet edilecektir. :muscle:
 
-*Hazırlayan:* @umuryilmaz
+*Hazırlayan:* [Umur Yılmaz](https://github.com/umuryilmaz)
