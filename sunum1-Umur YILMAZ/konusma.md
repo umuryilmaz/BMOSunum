@@ -4,10 +4,10 @@
 
 
 # Sunum kisim 1 -
-Bugunku  sunum iki kisimdan olusmakatadir. Ilk kisimda Umur YILMAZ Bitcoin ve Kripto Para konusunu tanitip, katilimcilara blockchain i anlatacak.
+Bugunku  sunum iki kisimdan olusmakatadir. Ilk kisimda Umur YILMAZ Bitcoin ve Kripto Para konusunu tanitip, katilimcilara blockchain i gosterecek.
 https://create.piktochart.com/output/29331550-bmoblockchain
 
-Ikinci kisimda ise Bora Tuccaroglu, Blockchain in nasil kullanildigini ve kullanim alanlarini anlatacak.
+Ikinci kisimda ise Bora Tuccaroglu, Blockchain in teknolojisini, nasil kullanildigini ve kullanim alanlarini anlatacak.
 
 ## Bitcoin / crypto para nedir? Blockchain nedir?
 
@@ -39,7 +39,7 @@ Bu sekilde para olmus, para yonetimi olmus, bankalar olmus, merkez bankalari olm
 ### 3- Bu Kimin?
 Simdi kucuk bir senaryo canlandiracagim. Bunun icin para lazim. Herkesin cebinde az cok biraz para vardir degil mi? Lutfen cuzdaniniza veya cebinize bakin, 50 TL olanlar parmak kaldirsin. Bu senaryo icin 50 TL kullanacagiz.
 
-Bora ya onceden 100 TL verecegim. 50 TL si olan katilimcilardan birisinin yanindaki arkadasi, o 100 TL yi kantinden bozmasi icin asagiya gonderecegim. Bu sirada 50 TL olan arkadasi ortaya cagiracagim ve 50 TL yi vermesini isteyecegim. Sonra yerine oturacak. Ben de 50 TL yi cebime koyacagim. Herkese de parayi cebine koymasini soyleyecegim.
+(Bora ya onceden 100 TL verecegim.) 50 TL si olan ve yakin oturan katilimcilardan birisini, o 100 TL yi kantinden bozmasi icin asagiya gonderecegim. Bu sirada 50 TL olan diger arkadasi ortaya cagiracagim ve 50 TL yi vermesini isteyecegim. Sonra yerine oturacak. Ben de 50 TL yi cebime koyacagim. Herkese de parayi cebine koymasini soyleyecegim.
 
 Kantinden donen arkadas gelince 2 tane 50 TL yi Bora ya verecek ve yerine oturacak.
 Bu noktada kendisine 200 TL karsiliginda 4 tane 50 TL getirip getirmedigini soracagim. Kendisi tabi ki, 200 degil 100 aldigini ve 2 50 getirdigini soyleyecek. Bu noktada bir itilaf olusacak. Ben kendisini zan altinda birakacagim. (SORUN 1). Sinif a soracak olursak, gercekten de masadan alinan paranin 100 TL oldugu anlasilacak.
