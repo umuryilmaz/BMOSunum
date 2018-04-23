@@ -2,8 +2,10 @@
 2. *sunumu ingilizce klavye ile hazirladigim icin turkce karakterler kullanilmamistir.*
 
 
+
 # Sunum kisim 1 -
 Bugunku  sunum iki kisimdan olusmakatadir. Ilk kisimda Umur YILMAZ Bitcoin ve Kripto Para konusunu tanitip, katilimcilara blockchain i anlatacak.
+https://create.piktochart.com/output/29331550-bmoblockchain
 
 Ikinci kisimda ise Bora Tuccaroglu, Blockchain in nasil kullanildigini ve kullanim alanlarini anlatacak.
 
@@ -70,3 +72,38 @@ Tabi bu hakem in konunun ehli olmasi lazim. Buna ek olarak buradaki 30 kisinin d
 Bu yontem tam da simdi yasadigimiz durumdur arkadaslar. Sadece para olarak dusunmeyin. insanlarin degerlerini korumak ve kollamak icin gelistirdigimiz yontem malesef budur.
 
 ### 5- Cozum 2 (Decentralized)
+Peki az once biz bu sorunu nasil cozduk? Odadaki cogunlugun hemfikir olmasiyla, bir konsensus cercevesinde, paranin gercek sahibini belirledik ve benim 50 TL yi aldigim transaction I hic olmamis gibi dusunduk.
+
+#### Konsensus nedir?
+Bu odada oturan herkes, iceri girdigi andan itibaren, diger herkesin sahip oldugu herseyi takip ediyor ve biliyor. Bunu bilincli olarak yapmiyoruz. Ama eger bu 30 kisiden bir tanesi digerinin telefonunu almak isterse, digerleri buna izin vermiyor. Aramizdan bir kisinin bile gozunden kacacak olsa, diger 29 kisi dogru yolu bulmamiza yardimci oluyor.
+
+#### Peki bitcoin nedir?
+
+Bitcoin aslinda bir yazilimdir. Ilk calistigi zaman, odaya ilk girdiginiz zamandir. Oncelikle odada bulunan tum paydaslara sorar. 29 diger yazilim, bu yeni gelen arkadasa, kimin nesi var onu soyler. Kisa sure icerisinde kimin nesi var konusunda diger paydaslarla ayni sayfada olur. Bu saatden sonra yeni gelen bu arkadas da tum alisverisleri takip eder. Kimin nesi var, kim kime bugune kadar ne vermis ne almis, bu kayitin adi Ledger dir (kutuk / ana hesap defteri). Bu terim accounting den de bildiginiz terimdir. Bu kayit defterine cesitli araliklarla yeni sayfalar eklenir ve zaman ilerledikce bu defter buyur. 30 kisi de bu yeni eklenen sayfalari ayni anda kendi defterine ekler. 31. kisi iceri girdiginde, odadaki herkesin Ledgeri ayni sayida sayfadan olusmakta ve ayni kayitlari icermektedir. Bunu 31. kisiyle paylasiriz ve bu dongu bu sekilde devam eder.
+
+Iste blockchain bu defterin adidir ve her yeni eklenen sayfanin adi block dur. Yani bu defter sayfa sayfa buyur.
+
+### Centralized - Decentralized
+*Interaktif*
+Burada durup bir derin nefes alalim ve kafamizdaki sorulari siralayalim.
+
+1- Mevcut yontem ile bizim uyguladigimiz yontemin farki nedir?
+Centralized - Decentralized
+
+2- Tek gozlemcinin not tuttugu bir ortamda, iki kisi arasindaki islemler diger 28 kisi tarafindan gorulmuyor. 30 kisi tanik olacaksa, gizlilik nasil saglanacak?
+CRYPTO
+
+3- Tek gozlemciye maas verip bu defteri tutturuyorduk. Bu 30 kisinin baska isi yok mu? Surekli ortami gozetlemekten ne cikarlari olacak?
+MINING
+
+4- Bir anda 31 kisi getirsem, kendim sistemi manipule edemez miyim?
+Proof of Work / Proof of Stake
+%51
+
+### Kisim 2 - Blockchain kullanim alanlarini
+Peki bu blockchain, crypto para disinda baska ne amacla kullanilabilir?
+
+..1. Supply Chain Management
+..2. Telif haklari
+..3. Otonom yazilimlar
+..4. Crowd funding
