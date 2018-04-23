@@ -14,7 +14,7 @@ Ikinci kisimda ise Bora Tuccaroglu, Blockchain in nasil kullanildigini ve kullan
 ### 1- Sorun Cozum
 Bir sorun var.
 Bu sorunun mevcut bir cozumu var
-Bu mevcut cozum yillarin birikimiyle gelen va adim adim uretilen enstrumanlarla olusmus bir yapidir.
+Bu mevcut cozum yillarin birikimiyle gelen va adim adim uretilen enstrumanlarla olusmus bir yapidir. Her gelen cozum, yeni bir sorun dogurdugundan, surekli cozulmeye calisilan bir sorunlar birikimi halini almistir.
 
 Bir de bu soruna baska bir yaklasim var.
 Ayni sorunu farkli bir yontemle cozuebilecegini iddia ediyor.
@@ -26,7 +26,7 @@ Para nedir?
 
 Para aslinda bir cozumdur. Bizim icat ettigimiz bir cozumdur. Peki sorun neydi?
 
-Paradan once ne vardi? takas vardi. Benim arpam var, senin tavugun var. 3 arpaya 5 yumurta seklinde takas yapilirdi. Sonra dediler ki, benim arpam var, sana verecegim. Ama yumurta istemem baska birsey ver. O zaman dusunduler ki ne yapalim? Karsiliginda degerli birsey verelim, misal bakir sikke.
+Paradan once ne vardi? takas vardi. Benim arpam var, senin tavugun var. 3 arpaya 5 yumurta seklinde takas yapilirdi. Sonra dediler ki, benim arpam var, sana verecegim. Ama yumurta istemem baska birsey ver. O zaman dusunduler ki ne yapalim? Karsiliginda degerli birsey verelim, misal bakir sikke (coin).
 
 Bir sure bu sekilde kullanilmis. 3 arpaya 1 sikke, 5 yumurtaya 1 sikke seklinde.
 
@@ -34,7 +34,7 @@ Bir takim sorunlar olmus. BU sikkeler kaybolmus, yipranip ufalmis/ kirilmis. Onu
 
 Demisler ki banka diye birsey yapalim. 1000 sikke getirene, bu 1000 sikke karsiliginda bir kagit verelim. O da para olsun. Bu para karsiligi bu kisinin banka da 1000 sikkesi olsun.
 
-Bu sekilde para olmus, para yonetimi olmus, bankalar olmus, merkez bankalari olmus, borclanma olmus vs vs.
+Bu sekilde para olmus, para yonetimi olmus, bankalar olmus, merkez bankalari olmus, borclanma olmus vs vs. COzumler sorunlari dogurmus, sorunlar cozumleri dogurmus.
 
 ### 3- Bu Kimin?
 Simdi kucuk bir senaryo canlandiracagim. Bunun icin para lazim. Herkesin cebinde az cok biraz para vardir degil mi? Lutfen cuzdaniniza veya cebinize bakin, 50 TL olanlar parmak kaldirsin. Bu senaryo icin 50 TL kullanacagiz.
