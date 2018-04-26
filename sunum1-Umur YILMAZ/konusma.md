@@ -103,7 +103,8 @@ Proof of Work / Proof of Stake
 ### Kisim 2 - Blockchain kullanim alanlarini
 Peki bu blockchain, crypto para disinda baska ne amacla kullanilabilir?
 
-..1. Supply Chain Management
-..2. Telif haklari
-..3. Otonom yazilimlar
-..4. Crowd funding
+1. Supply Chain Management
+2. Telif haklari
+3. Land Registry
+4. Otonom yazilimlar
+5. Crowd funding
